@@ -1,0 +1,17 @@
+LTspice 26.1.1 for Windows
+Circuit: C:\Users\ebesk\Desktop\devre_cizimleri\e1-guc-giris\e1-sim.net
+Start Time: Tue Nov 24 00:02:17 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.102 seconds.
+Total iterations: 43
+
+Files loaded:
+C:\Users\ebesk\Desktop\devre_cizimleri\e1-guc-giris\e1-sim.net
+C:\Users\ebesk\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\ebesk\AppData\Local\LTspice\lib\cmp\standard.mos
+

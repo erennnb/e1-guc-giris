@@ -1,0 +1,8 @@
+.history/
+*-backups/
+fp-info-cache
+*.lck
+*.kicad_prl
+*.log
+*.raw
+*.net   
